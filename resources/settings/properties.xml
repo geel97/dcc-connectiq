@@ -1,0 +1,4 @@
+<properties>
+	<property id="CODE" type="string"></property>
+	<property id="EC" type="number">3</property>
+</properties>

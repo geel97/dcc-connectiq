@@ -1,0 +1,14 @@
+<settings>
+	<setting propertyKey="@Properties.CODE"
+		title="@Strings.CODE" >
+		<settingConfig type="alphaNumeric" />
+	</setting>
+	<setting propertyKey="@Properties.EC" title="@Strings.EC" helpUrl="https://en.wikipedia.org/wiki/QR_code#Error_correction">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.L</listEntry>
+            <listEntry value="1">@Strings.M</listEntry>
+            <listEntry value="2">@Strings.Q</listEntry>
+            <listEntry value="3">@Strings.H</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

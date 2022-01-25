@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">DCC</string>
+    <string id="CODE">QR code</string>
+    <string id="EC">Error correction level</string>
+    <string id="NO_DATA">No data</string>
+    
+    <string id="L">Low</string>
+    <string id="M">Medium</string>
+    <string id="Q">Quartile</string>
+    <string id="H">High</string>
+</strings>
